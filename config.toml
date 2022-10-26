@@ -1,4 +1,5 @@
-baseURL = 'https://joemay96.github.io/'
+baseURL = 'https://joemay96.github.io/swh-blog'
 languageCode = 'de-de'
 title = 'Josef SWH Blog'
-theme = "hugo-tranquilpeak-theme"
+theme = "PaperMod"
+
