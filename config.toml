@@ -1,47 +1,52 @@
 baseURL = 'https://joemay96.github.io/swh-blog/'
 languageCode = 'de-de'
 title = 'Josef SWH Blog'
-theme = "github-style"
+theme = "my-theme"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
-# [params]
-#   author = "MeiK"
-#   description = "In solitude, where we are least alone."
-#   github = "MeiK2333"
-#   facebook = "MeiK2333"
-#   twitter = "MeiK2333"
-#   linkedin = "MeiK2333"
-#   instagram = "MeiK2333"
-#   tumblr = "MeiK2333"
-#   email = "meik2333@gmail.com"
-#   url = "https://meik2333.com"
-#   keywords = "blog, google analytics"
-#   rss = true
-#   lastmod = true
-#   userStatusEmoji = "😀"
-#   favicon = "/images/github.png"
-#   location = "China"
-#   enableGitalk = true
+[params]
+author = "Josef Mayer"
+description = "Yeah you git me!"
+github = "@joemay96"
+# facebook = "MeiK2333"
+# twitter = "MeiK2333"
+linkedin = "https://www.linkedin.com/in/josef-mayer-91491a21b/"
+# instagram = "MeiK2333"
+# tumblr = "MeiK2333"
+email = "me@josefmayer.me"
+url = "https://sharky.live"
+keywords = "sketching with hardware, swh, blog, uni"
+rss = true
+lastmod = true
+userStatusEmoji = "🧘"
+favicon = "/images/favicon.png"
+image = "/images/profile.jpeg"
+location = "Germany"
+enableGitalk = false
 
-#   [params.gitalk]
-#     clientID = "Your client ID" 
-#     clientSecret = "Your client secret" 
-#     repo = "repo"
-#     owner = "MeiK2333"
-#     admin = "MeiK2333"
-#     id = "location.pathname"
-#     labels = "gitalk"
-#     perPage = 15
-#     pagerDirection = "last"
-#     createIssueManually = true
-#     distractionFreeMode = false
+# [params.gitalk]
+# clientID = "Your client ID"
+# clientSecret = "Your client secret"
+# repo = "repo"
+# owner = "MeiK2333"
+# admin = "MeiK2333"
+# id = "location.pathname"
+# labels = "gitalk"
+# perPage = 15
+# pagerDirection = "last"
+# createIssueManually = true
+# distractionFreeMode = false
 
-#   [[params.links]]
-#     title = "Link"
-#     href = "https://github.com/meik2333"
-#   [[params.links]]
-#     title = "Link2"
-#     href = "https://meik2333.com"
-#     icon = "https://meik2333.com/images/avatar.png"
 
-# [frontmatter]
-#   lastmod = ["lastmod", ":fileModTime", ":default"]
+#! Links die man einstellen kann
+# [[params.links]]
+# title = "Link"
+# href = "https://github.com/joemay96"
+[[params.links]]
+title = "Website"
+href = "https://sharky.live"
+icon = "./images/web.png"
+
+[frontmatter]
+lastmod = ["lastmod", ":fileModTime", ":default"]
