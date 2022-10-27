@@ -1,7 +1,7 @@
 baseURL = 'https://joemay96.github.io/swh-blog/'
 languageCode = 'de-de'
 title = 'Josef SWH Blog'
-theme = "github-style"
+theme = "my-theme"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
