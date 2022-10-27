@@ -9,11 +9,11 @@ For changes in your preferred theme.
 ``` bash
 git submodule add link-to-your-fork themes/how-you-want-your-themes-name
 ```
-you can add a submodule to your repo. After adding the submodule you have to change in your config.toml the name of your theme to the name you gave it with your last command.
+you can add a submodule to your repo. After adding the submodule you have to change in your config.toml the name of your theme to the name you gave it with your last command. [Adding a theme](https://gohugo.io/getting-started/quick-start/)
 4. Now you can change the the theme files and push them to your fork and the changes can be applied. You have now control over your(!) theme.
 
 ### Changes in the theme
-If you change something in the theme and want to push your changes your need to go into your theme folder
+If you change something in the theme and want to push your changes your need to go into your theme folder. [Submodules cloning](https://www.w3docs.com/snippets/git/how-to-pull-the-latest-git-submodule.html)
 ```
 cd themes/my-theme
 ```
