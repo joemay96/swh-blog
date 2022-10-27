@@ -23,6 +23,7 @@ git add .
 git commit -m "theme changes"
 git push origin main
 ```
+If you push changes to your theme repo the changes won't be applied immediatly but only after your push something to your main repo and the project gets rebuild.
 
 ### The theme as submodule was not loaded
 After adding the submodule it can be possible that the files in the folder you specified is empty. This can also happen after cloning your repo. ThisYou than need to first look at your **.gitmodules** file in your folder and check if the URL to your theme repo is correct, if not change the URL.

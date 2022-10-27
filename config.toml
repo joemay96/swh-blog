@@ -20,8 +20,7 @@ keywords = "sketching with hardware, swh, blog, uni"
 rss = true
 lastmod = true
 userStatusEmoji = "🧘"
-favicon = "/images/favicon.png"
-image = "/images/profile.jpeg"
+favicon = "./images/favicon.png"
 location = "Germany"
 enableGitalk = false
 
@@ -46,7 +45,7 @@ enableGitalk = false
 [[params.links]]
 title = "Website"
 href = "https://sharky.live"
-icon = "./images/web.png"
+icon = "/images/web.png"
 
 [frontmatter]
 lastmod = ["lastmod", ":fileModTime", ":default"]
