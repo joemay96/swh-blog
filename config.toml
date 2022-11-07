@@ -6,12 +6,12 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-author = "Josef Mayer"
-description = "Yeah you git me!"
+author = "Josef"
+description = "Welcome to my git profile"
 github = "@joemay96"
 # facebook = "MeiK2333"
 # twitter = "MeiK2333"
-linkedin = "https://www.linkedin.com/in/josef-mayer-91491a21b/"
+# linkedin = "https://www.linkedin.com/in/josef-mayer-91491a21b/"
 # instagram = "MeiK2333"
 # tumblr = "MeiK2333"
 email = "me@josefmayer.me"

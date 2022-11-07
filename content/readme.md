@@ -1,6 +1,7 @@
 ---
-pin: true
+pin: false
 ---
-# This is my Sketching with Hardware Blog and
+# Sketching with Hardware Blog 2022/2023
 
+Welcome to my Sketching with Hardware Blog!
 Enjoy 🎉 
