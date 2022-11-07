@@ -4,6 +4,7 @@ title = 'Josef SWH Blog'
 theme = "my-theme"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+# staticDit = ["static"]
 
 [params]
 author = "Josef"
