@@ -85,7 +85,7 @@ Im Versuch sollten wir mit dem Multimeter die Spannung und die Stromstärke mess
 
 ![labor_2](../2-e2.jpg)
 
-Wir musste eine Reihe von Werten nehmen, bei welchen wir sowohl Spannung, als auch Stromstärke durch ein Multimeter bestimmten und daraus mit der Formel $R = \frac{U}{I}$.
+Wir musste eine Reihe von Werten nehmen, bei welchen wir sowohl Spannung, als auch Stromstärke durch ein Multimeter bestimmten und daraus mit der Formel $$R = \frac{U}{I}$$.
 
 ![daten_1](../2-versuch1.png)
 
