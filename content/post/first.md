@@ -24,11 +24,11 @@ Falls ich alle Fähigkeiten für jegliches Projekt bereits besäße, habe ich mi
 
 Ich habe nach Anleitungen für verschiedene Roboter gesucht und bin schließlich auf diesen gestoßen.
 
-![Robohund](../robodog.png "Robohund")
+![Robohund](robodog.png "Robohund")
 
 Selbst wenn ich alle Fähigkeiten besäße müsste allerdings eine angemessene und ausführliche Dokumentation des Projekts vorhanden sein. Da dies für den *Roboterhund* nicht zutrifft habe ich mich daher für für den **[Robogepard](https://www.instructables.com/Baby-MIT-Cheetah-Robot-V2-Autonomous-and-RC/)** entschieden.
 
-![Robogepard](../robogepard.png "Robogepard")
+![Robogepard](robogepard.png "Robogepard")
 
 Dieser hat den Vorteil nicht zu groß zu sein, was ihn dienlich für weitere Projekte macht und er hat eine sehr ausführliche Dokumentation. Die Hauptbestandteile des Projekts sind das Arbeiten mit dem 3D-Drucker, sowie Löten und Montieren von Bauteilen.
 Sowohl die Materialien, als auch die Konstruktion sind in der [Anleitung](https://www.instructables.com/Baby-MIT-Cheetah-Robot-V2-Autonomous-and-RC/) ausführlich beschrieben.
