@@ -27,23 +27,23 @@ Nach dieser ersten Einführung in die Marterie ging es ins Labor um ein bisschen
 
 Wir bekamen ein paar Bauteile, welche wir festlöten sollten.
 
-![loeten_bauteile](2-lab1.jpg)
+![loeten_bauteile](images/2/2-lab1.jpg)
 
 Und das taten wir:
 
-![loeten_1](2-lab2.jpg)
+![loeten_1](images/2/2-lab2.jpg)
 
-![loeten_2](2-lab3.jpg)
+![loeten_2](images/2/2-lab3.jpg)
 
-![loeten_3](2-lab4.jpg)
+![loeten_3](images/2/2-lab4.jpg)
 
 Mit ein bisschen Übung gelang es uns ziemlich schnell einigermaßen saubere Kontakte zu löten.
 
-![loeten_4](2-lab5.jpg)
+![loeten_4](images/2/2-lab5.jpg)
 
 Und letztlich hatten wir einige Bauteile auf unserer Probeplatine festgelötet.
 
-![loeten_5](2-lab6.jpg)
+![loeten_5](images/2/2-lab6.jpg)
 
 ## Ohmsches Gesetz
 
@@ -67,7 +67,7 @@ Wenn man also den fließenden Strom verdoppelt, so wird die Leistungsabgabe verv
 
 Vor dem nächsten praktischen Teil bekamen wir nun noch erklärt wie man mit einem Multimeter Spannungen, Stromstärke und Widerstände messen kann.
 
-![multimeter](2-Multimeter.png)
+![multimeter](images/2/2-Multimeter.png)
 
 Durch Widerstände im Multimeter lassen sich Stromstärke und Spannug messen (diese sind intern im Multimeter verarbeitet um das jeweilige zu messen). Dabei wird für die **Messung der Stromstärke (A)** das Multimete**r in Reihe** geschaltet - der Widerstand im Multimeter soll dabei so klein wie möglich sein um die Messung so wenig wie möglich zu beeinflussen. Wenn die **Spannung (V)** gemessen werden soll wir das Messgerät **parallel** geschaltet, wobei der Widerstand im Multimeter sehr groß ist, damit die meiste Spannung durch den gemessenen Abschnitt fließt.
 
@@ -81,25 +81,25 @@ In den weiteren Laborversuchen mussten wir wir das Ohmsche Gesetzt anwenden und 
 
 Im Versuch sollten wir mit dem Multimeter die Spannung und die Stromstärke messen, welche durch den Widerstand läuft um heraus zu finden, um welchen Widerstand es sich handelt und wie viel Ohm dieser hat.
 
-![labor_1](2-e1.jpg)
+![labor_1](images/2/2-e1.jpg)
 
-![labor_2](2-e2.jpg)
+![labor_2](images/2/2-e2.jpg)
 
 Wir musste eine Reihe von Werten nehmen, bei welchen wir sowohl Spannung, als auch Stromstärke durch ein Multimeter bestimmten und daraus mit der Formel $$R = \frac{U}{I}$$.
 
-![daten_1](2-versuch1.png)
+![daten_1](images/2/2-versuch1.png)
 
 Durch unsere Messungen haben wir herausfinden können, dass es sich um einen 100Ohm Widerstand gehandelt hat. Durch unsere Versuchsreihe haben sind wir auf 99 Ohm gekommen.
 
 Als wir ihn direkt mit dem Multimeter gemessen haben hatte er 101 Ohm.
 
-![labor_3](2-e3.jpg)
+![labor_3](images/2/2-e3.jpg)
 
 ### Versuch 2
 
 In einem zweiten Versuchsaufbau haben wir einen neuen Widerstand über einen Messwiderstand gemessen, so wie das im Multimeter auch intern funktioniert, wenn man es auf die Messung eines Widerstands einstellt.
 
-![daten_2](2-versuch2.png)
+![daten_2](images/2/2-versuch2.png)
 
 Diesmal haben wir die Formel für Spannungsteiler verwenden können: 
 
@@ -107,7 +107,7 @@ $$
 U_{R_2} = U_{ges} * \frac{R_2}{R_1 + R_2}
 $$
 
-![labor_4](2-e4.jpg)
+![labor_4](images/2/2-e4.jpg)
 
 Wir haben nach unserer Versuchsreihe mit 7 Messwerten herausgefunden, dass der Widerstand 233 Ohm hat, wobei dieser bei 220 Ohm beschrieben war. Mit dem Multimeter haben wir 221 Ohm gemessen. Wir hatten somit eine Abweichung von ungefähr 5%, was noch im Rahmen liegt. 
 
@@ -125,7 +125,7 @@ Ich habe mich für das Projekt “Wetterstation” entschieden. Es bietet mir di
 
 Dies ist noch ein kleiner Aufbau des Schaltplans, wie ich mir zur Zeit vorstelle die Wetterstation zu bauen.
 
-![Wetterstation](2-Wetterstation.png)
+![Wetterstation](images/2/2-Wetterstation.png)
 
 **Was ich für die Wetterstation benötige:**
 
@@ -140,5 +140,5 @@ Dies ist noch ein kleiner Aufbau des Schaltplans, wie ich mir zur Zeit vorstelle
     - Eventuell Weiterleitung der Daten per API an eine WebUI?
 
 ### Fritzing Schaltplan
-![Fritzing_Entwurf_Wetterstation](2-Wetterstation_Fritzing.png)
+![Fritzing_Entwurf_Wetterstation](images/2/2-Wetterstation_Fritzing.png)
 Dies ist mein erster Entwurf für den Schaltplan der Wetterstation, auch wenn ich mir wegen der Ansteuerung noch nicht sicher bin, ob es so funktionieren wird wie ich mir das vorstelle.
